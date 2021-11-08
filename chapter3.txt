@@ -3,3 +3,6 @@ finaly ok
  2. git init
  3. "git add 'file name'" or "git add ." all file commit
  4. git commit -m "message"
+ 5. if you change any file but want to get back old data so simply checkout first different with the command
+       5.1. git diff "file name" this will show the changes in file
+       5.2. git checkout "file name" now this you will get back your pervious file
