@@ -1,0 +1,5 @@
+finaly ok
+ 1. cd to that folder
+ 2. git init
+ 3. "git add 'file name'" or "git add ." all file commit
+ 4. git commit -m "message"
